@@ -1,0 +1,8 @@
+https://blog.csdn.net/anelwl/article/details/128255840
+https://www.cnblogs.com/yuanwebpage/p/12422529.html
+https://taosean.github.io/2018/12/03/Inter-Process-Communication-by-Shared-Memory-on-Windows/#file-mapping-%E4%BB%A3%E7%A0%81
+https://blog.csdn.net/qq_35097289/article/details/78262721
+https://www.cnblogs.com/onetrainee/p/11667416.html
+https://blog.csdn.net/stpeace/article/details/39534361
+https://www.digiproto.com/news/178.html
+https://sunweiwei.com/1996/
